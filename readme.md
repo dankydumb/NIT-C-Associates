@@ -1,6 +1,6 @@
 # **My journey as a FOSS Associate so far!!!!**
 
-Hey there I'm Dibyanshu Gandhi, a freshie at NIT C Civil Branch.I came to know about Free and Open Source Softwares through the FOSS cell and it's my first time i used one Mastodon[p.s. i liked it more than twitter ]
+Hey there I'm Dibyanshu Gandhi, a freshie at NIT C Civil Branch.I came to know about Free and Open Source Softwares through the FOSS cell and it's my first time i used one, Mastodon[p.s. i liked it more than twitter ]
 
 ## **List of things I've done until now as a FOSS Associate**
 
